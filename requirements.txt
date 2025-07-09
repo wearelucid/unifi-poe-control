@@ -1,2 +1,2 @@
-aiounifi>=84
+aiounifi==84
 aiohttp>=3.8.0 
